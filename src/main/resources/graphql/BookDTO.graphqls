@@ -1,0 +1,7 @@
+type BookDTO{
+    title : String
+    publisher : String
+    datePublication : String
+    price : Float
+    resume : String
+}
